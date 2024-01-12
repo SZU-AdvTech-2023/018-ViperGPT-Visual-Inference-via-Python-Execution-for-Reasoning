@@ -1,0 +1,6 @@
+@article{REPO018,
+    author = "Sur{\'\i}s, D{\'\i}dac and Menon, Sachit and Vondrick, Carl",
+    journal = "arXiv preprint arXiv:2303.08128",
+    title = "{Vipergpt: Visual inference via python execution for reasoning}",
+    year = "2023"
+}
